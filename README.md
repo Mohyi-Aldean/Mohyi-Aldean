@@ -43,15 +43,15 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowARBAD&show_icons=true&theme=radical" alt="Hasoon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohyi-Aldean&show_icons=true&theme=radical" alt="Hasoon's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowARBAD&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohyi-Aldean&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowARBAD&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohyi-Aldean&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
